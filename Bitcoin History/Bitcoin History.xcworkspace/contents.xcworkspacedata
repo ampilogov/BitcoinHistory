@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:Bitcoin History.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/vampir/Desktop/projects/Bitcoin History/CryptoPriceCore/PriceCore.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NetworkCore/NetworkCore.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Utils/Utils.xcodeproj">
+   </FileRef>
+</Workspace>
