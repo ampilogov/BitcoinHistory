@@ -5,7 +5,7 @@
       location = "container:Bitcoin History.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:/Users/vampir/Desktop/projects/Bitcoin History/CryptoPriceCore/PriceCore.xcodeproj">
+      location = "group:CryptoPriceCore/PriceCore.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:NetworkCore/NetworkCore.xcodeproj">
